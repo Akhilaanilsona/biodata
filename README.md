@@ -26,7 +26,7 @@
                 Nayathode P.O<br>
                 Angamaly
                          
-                         , Ernakulam
+                     , Ernakulam
             </h6>
 
             <h4>Email:</h4>
